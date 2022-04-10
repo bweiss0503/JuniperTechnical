@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JuniperTechnical", "JuniperTechnical\JuniperTechnical.csproj", "{36A1A537-A9FC-4B8E-9AB3-E41635A01312}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxServiceTests", "TaxServiceTests\TaxServiceTests.csproj", "{7AA8DC07-792C-48D3-8A08-4EBE10837C55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36A1A537-A9FC-4B8E-9AB3-E41635A01312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A1A537-A9FC-4B8E-9AB3-E41635A01312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A1A537-A9FC-4B8E-9AB3-E41635A01312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A1A537-A9FC-4B8E-9AB3-E41635A01312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AA8DC07-792C-48D3-8A08-4EBE10837C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA8DC07-792C-48D3-8A08-4EBE10837C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA8DC07-792C-48D3-8A08-4EBE10837C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA8DC07-792C-48D3-8A08-4EBE10837C55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78E2E6F5-F24F-41B0-92E7-3116C81B8662}
+	EndGlobalSection
+EndGlobal
